@@ -1,0 +1,37 @@
+h1{
+background-color: #ffe4c4;
+justify-content: center;
+align-items: center;
+display: flex;
+
+}
+h3{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: darkblue;
+
+}
+body{
+background-image: url(ben.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.box1{
+    width: 40px;
+    height: 30px;
+    background-color: aliceblue;
+    position:static;
+    top: 10px;
+    left: 10px;
+}
+div1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+    
+
+}
