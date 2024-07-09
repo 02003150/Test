@@ -13,7 +13,7 @@ h3{
 
 }
 body{
-background-image: url(ben.jpg);
+background-color: aliceblue;
 background-attachment: fixed;
 background-repeat: no-repeat;
 background-size: cover;
@@ -33,5 +33,10 @@ div1{
     display: flex;
     
     
+
+}
+div3{
+    size: 20px;
+   
 
 }
